@@ -5,7 +5,7 @@ Sus funciones son:
 - Mostrar la lista completa de estudiantes.
 - Evaluar automáticamente si están aprobados o reprobados.
 
-Principios de POO 
-Encapsulamiento
-Abstracción
-SOLID
+Principios de POO: 
+Encapsulamiento.
+Abstracción.
+SOLID.
